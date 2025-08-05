@@ -1,7 +1,7 @@
 ## GITHUB COPILOT SURF REPORT PROJECT
 
 ### Project Purpose:
-Use github copilot agent to collect data from [the](https://open-meteo.com/) API to display for users to view wave height and sea temperature for their location. If no data is available, display and message indicating that no data is available. 
+Use github copilot agent to collect data from the https://open-meteo.com/ API to display for users to view wave height and sea temperature for their location. If no data is available, display and message indicating that no data is available. 
 
 ### Tech Used:
 - ChatGPT
