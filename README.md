@@ -63,7 +63,13 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 ##  Starter Github Copilot Prompts (A few listed):
 
 * Create a new next-js project in the current directorynpx create-next-app@latest . --ts
-    * (Reponse from Github Copilot)Would you like to use ESLint? … No / Yes Would you like to use Tailwind CSS? … No / Yes Would you like your code inside a `src/` directory? … No / Yes Would you like to use App Router? (recommended) … No / Yes Would you like to use Turbopack for `next dev`? … No / Yes Would you like to customize the import alias (`@/*` by default)? … No / Yes
+    * (Reponse from Github Copilot)
+       * Would you like to use ESLint? … No / Yes
+       * Would you like to use Tailwind CSS? … No / Yes
+       * Would you like your code inside a `src/` directory? … No / Yes
+       * Would you like to use App Router? (recommended) … No / Yes
+       * Would you like to use Turbopack for `next dev`? … No / Yes
+       * Would you like to customize the import alias (`@/*` by default)? … No / Yes
 
 * Install shadcn ui into the project
 
